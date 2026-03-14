@@ -1,4 +1,4 @@
-Task 1 – Landing Page
+**Task 1 – Landing Page**
 
 This project is a simple and responsive landing page developed using HTML and CSS as part of the Web Development and Designing Internship at Oasis Infobyte.
 
